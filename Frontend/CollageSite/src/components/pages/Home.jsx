@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../Navbar'
-import Header from '../header'
+import Header from '../Header'
 import Collageinfo from '../Collageinfo'
 import Departments from '../Departments'
 import Details from '../Details'
