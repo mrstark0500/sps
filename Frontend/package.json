@@ -1,8 +1,21 @@
 {
+  "name": "collagesite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.18"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
-    "tailwindcss": "^4.1.18"
+    "vite": "^5.0.0",
+    "tailwindcss": "^4.1.18",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
   }
 }
