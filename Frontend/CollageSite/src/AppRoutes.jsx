@@ -18,7 +18,7 @@ import General from "./components/staff/teaching/General";
 import Mechanical from "./components/staff/teaching/Mechanical";
 import Entc from "./components/staff/teaching/Entc";
 import Computer from "./components/staff/teaching/Computer";
-import Chemical from "./components/staff/teaching/CHemical";
+import Chemical from "./components/staff/teaching/Chemical";
 import Automobile from "./components/staff/teaching/Automobile";
 import Electrical from "./components/staff/teaching/Electrical";
 import Placement from "./components/Placement";
