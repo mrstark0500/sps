@@ -1,5 +1,5 @@
 import React from 'react'
-import Cp from './cp'
+import Cp from './Cp'
 import NormalBar from './NormalBar'
 import Fotter from './last/Fotter'
 

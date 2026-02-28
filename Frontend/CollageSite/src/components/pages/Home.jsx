@@ -1,11 +1,11 @@
 import React from 'react'
 import Navbar from '../Navbar'
-import Header from '../header'
+import Header from '../Header'
 import Collageinfo from '../Collageinfo'
 import Departments from '../Departments'
 import Details from '../Details'
 import Recruiters from '../Recruiters'
-import Address from '../address'
+import Address from '../Address'
 import Fotter from '../last/Fotter'
 
 function Home() {
